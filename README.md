@@ -99,5 +99,6 @@ The corresponding sentiment determined in the database is:  negative
 The predicted sentiment for the randomly selected review is:  negative
 
 Enter text for sentiment analysis (or press Enter to quit): Computer science is a field brimming with potential, offering high earning prospects, rapid career growth, and versatile skills. The demand for computer science professionals is consistently high across various industries, making it a lucrative and promising career path.
+
 Predicted Sentiment: positive
 ________________________________
