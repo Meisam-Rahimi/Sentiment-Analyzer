@@ -78,11 +78,11 @@ that as it already has been covered. I give this movie a low rating for the stor
  was not easy to like. My main objection was the lack of foundation for the relationship 
  between the two main characters, I was never convinced that they were close. I also 
  told him that the scene where the main characters were presented as children becoming
- friends was too late in the film.<br /><br />He told me that the flashback scenes 
+ friends was too late in the film. He told me that the flashback scenes 
  were not in the original script. That they were added because he felt like I did that
  the two main characters did not appear close. He went on to explain that these 
  scenes were not filmed to his satisfaction as they were out of money. I agree 
- that they did not do much for the film.<br /><br />Another fact about the movie,
+ that they did not do much for the film. Another fact about the movie,
  that I was not aware of, is the actor who had the lead wrote the script based 
  on his own personal experience. This is usually a bad move as some writers do 
  not take into consideration the emotional reaction the viewer. The story is so 
